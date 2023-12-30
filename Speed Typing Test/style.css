@@ -1,0 +1,46 @@
+.container{
+    background-color: #dac0ff;
+    padding-left: 14px;
+}
+
+.card-container{
+    background-color: #f3eaff;
+    height: auto;
+    width: auto;
+    padding: 20px;
+    border-radius: 20px;
+    border: 2px solid #9aa5b1;
+}
+
+.container-heading{
+    color: #690cb0;
+    font-family: "Roboto";
+    font-weight: bold;
+    padding: 13px;
+}
+
+.description{
+    color: #3e4c59;
+    font-family: "Roboto";
+    font-weight: 700;
+}
+
+.submit-btn{
+    background-color: #f2ebf3;
+}
+.reset-btn{
+    background-color: #f2ebf3;
+}
+.clock-image{
+    height: 50px;
+}
+.span{
+    font-size: 40px;
+}
+
+#timer{
+    font-size: 43px;
+}
+
+
+
